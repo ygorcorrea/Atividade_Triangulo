@@ -1,0 +1,10 @@
+C:\Users\kaker\source\repos\Atividade Luciano\bin\Debug\Atividade Luciano.exe.config
+C:\Users\kaker\source\repos\Atividade Luciano\bin\Debug\Atividade Luciano.exe
+C:\Users\kaker\source\repos\Atividade Luciano\bin\Debug\Atividade Luciano.pdb
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade Luciano.csprojAssemblyReference.cache
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade_Luciano.frmPrincipal.resources
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade_Luciano.Properties.Resources.resources
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade Luciano.csproj.GenerateResource.cache
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade Luciano.csproj.CoreCompileInputs.cache
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade Luciano.exe
+C:\Users\kaker\source\repos\Atividade Luciano\obj\Debug\Atividade Luciano.pdb
